@@ -1,0 +1,107 @@
+
+
+
+Agenda
+	1. Operators
+
+		a. arithmetic operator
+			+ - * / % 
+		b. comparator 
+			< > <= >= == !=
+
+6feet tall
+
+
+5'9   
+
+
+I am taller than my friend ()---> false
+
+
+int a=100,b=50;
+
+syso(a<b);  false
+syso(a>b);  true
+syso(a<=b); false
+syso(a>=b); true
+syso(a!=b); true
+syso()a==b); false 
+
+
+
+
+
+
+		c. logical
+			&& || !
+
+A	B	A or B	A and B	!A	!B
+TRUE	TRUE	TRUE	TRUE	FALSE	FALSE
+TRUE	FALSE	TRUE	FALSE	FALSE	TRUE
+FALSE	TRUE	TRUE	FALSE	TRUE	FALSE
+FALSE	FALSE	FALSE	FALSE	TRUE	TRUE
+
+
+
+
+int a=100,b=50;
+
+boolean ab=a>b && b>a;
+
+
+Boolean ba=true & true;
+
+
+
+
+
+
+		d. assignment
+			= += -= /+ %= &= |= 
+
+			int a=100;
+			a%=100;
+
+Boolean b=false;
+
+b!=true;
+
+		e. incremental/decremental operators
+
+
+
+			pre-increment post increment
+			pre-decrement post decrement
+
+				
+
+
+
+
+			++ --
+
+			int a=100; 
+			++a;
+			a++;
+			syso(a); 
+			
+			a--;
+			syso(a)
+
+
+		f. shifter
+		g. ternary operator  
+
+int a=100,b=500,c;
+c=a%b;
+syso(c);
+
+
+590/600*100
+
+
+
+
+
+	2. access modifiers
+	3. inheritance

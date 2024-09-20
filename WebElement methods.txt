@@ -1,0 +1,94 @@
+
+
+
+Agenda
+	1. WebElement methods
+	2. webelement types and practical
+		1. button
+		2. textbox
+		3. radio button
+		4. checkbox
+		5. menu items
+		6. web table
+		7. datetime picker
+		8. drop down
+	3. action class
+	4. screenshot
+	5. script failure
+	
+
+WebElement methods
+
+	1. sendKeys()   send data to text box
+	2. click()      click on anything (which is applicable)
+	3. isEnabled()  
+	4. isDisplayed()
+	5. getText()
+	6. getAttribute()
+	7. getLocation
+	8. size
+	9. isSelected
+	10 submit()
+	11 clear()
+	
+
+open browser
+
+load URL
+
+
+
+1. validate you are on forgot password
+2. enter user name
+3. click on retreve password button
+4. validate internalserver error
+
+
+driver.quit();
+
+
+
+String ss="hello welcome to QT";
+
+syso(ss +student1);
+
+syso(ss +student1);
+syso(ss +student2);
+syso(ss +student3);
+syso(ss +student4);
+syso(ss +student5);
+
+
+
+
+
+int a=100;
+
+a+=100;
+
+
+a++;
+
+
+Boolean b=true;
+
+b&=true;
+
+b is true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

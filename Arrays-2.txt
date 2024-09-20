@@ -1,0 +1,70 @@
+
+
+
+Agenda
+	1. Arrays transfer
+	2. 2 dim arrays
+	
+
+int a[][]=new int[10][10];
+
+a[0][0]=100;
+
+a[1][1]=200
+
+
+
+
+1. I wanted to transfer data from one array to another array
+int a[]=new int[100];
+
+
+Random rnd=new Random();
+
+
+for(int i=0;i<=a;i++)
+{
+
+a[i]=rnd.nextInt(10000);
+
+}
+
+int b[]=new int[a.length]
+
+
+for(int i=0;i<b.length;i++)
+{
+b[i]=a[i];
+}
+
+trasfer the data in reverse order
+
+int a[]=new int[100];
+int b[]=new int[a.length];
+
+for(int i=0;i<a.length;i++)
+{
+	a[i]=(i+1)*2;
+}
+int aa=0;
+for(int i=a.lenght;i<=0;i--)
+{
+	
+	b[aa]=a[i];
+	aa++;
+}
+
+
+b[9]=a[0];
+b[8]=a[1];
+
+
+
+
+
+
+
+
+
+
+

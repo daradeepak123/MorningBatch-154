@@ -1,0 +1,54 @@
+
+
+Agenda
+	1. Introduction	
+	2. What is testing
+	3. Why Testing
+	4. Testing process
+		a. functional testing
+			manual testing
+				i. Smoke testing
+				ii.functional testing
+				iii.sanity testing
+				iv. re-testing   
+				v. regression testing
+				vi. integration testing
+				vii. system testing
+				viii. adhoc trail error
+			automation testing
+
+				scripts that scripts will test the test cases 
+				1. TOsca
+				2. Selenium
+				3. TestCafe
+				4.QTP
+				5. RObort
+				6. Cypress
+
+
+
+
+
+		b. non-functional testing
+			performance		
+			security
+			cache
+			cookies
+
+
+	5. Automation testing
+	6. Plan to turn ourself as automation test engineer
+
+
+		1. core java
+		2. basics of html
+		3. Selenium
+		4. Frameworks
+		5. Maven
+		6. Git and githum
+		7. Jenkins
+	
+
+
+
+

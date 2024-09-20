@@ -1,0 +1,65 @@
+
+
+
+Agenda
+	1. Basics of html
+		create a login page 
+	
+	html hypertext Markup language
+
+		small letters
+		we have tags in html
+		learn multiple tags in html
+		attributes
+		attribute values in html
+		relations of tags
+
+<html>   /html/body/div/input
+	<head>
+		<title></title>
+	</head>
+	<body>
+
+		<div>
+			<input id="abc"><input>
+		</div>
+		<input> </input>
+		<div>
+			<input></input>
+			<button></button>
+			<a></a>
+			<input><input>
+		</div>
+	</body>
+	
+</html>
+
+public class abc
+{
+int a =100;
+
+}
+
+
+
+
+	2. locators
+		
+
+		1. id
+		2. class
+		3. tag
+		4. name
+		5. linkText
+		6. partialLinktext
+		7. cssSelector
+		8. xpath
+
+
+
+
+
+
+
+
+

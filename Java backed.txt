@@ -1,0 +1,79 @@
+
+
+
+Agenda
+	1. What is JDK
+	2. How execution happens from backend
+
+
+JDK -> Java development kit
+
+	1. pre defined classes
+	2. JRE
+	3. JVM
+	4. Compiler
+
+
+packing up all the relevant information
+
+
+medical kit
+	cotton
+	medicines 
+
+tool kit
+	ranch
+	spanner
+	bolts nuts 
+
+car tool kit
+	jack
+	ranch
+	spanner
+
+
+JDK
+	
+	1. Eclipse
+	2. NetBeans
+	3. Spring	
+	4. Aqua
+
+
+class A
+{
+
+public static void main(String args[])
+{
+
+System.out.println("Welcome to Quality thought");
+
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

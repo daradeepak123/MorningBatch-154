@@ -1,0 +1,54 @@
+Agenda
+	1. Introduction to eclipse
+	2. First program
+	3. class package method explanation 
+	4. methods
+		block of code can be called when ever we want
+
+
+
+What is a class
+what is a package
+what is a project
+Naming convention 
+
+
+	project 
+		com.domainName
+
+		com.amazon
+
+
+	package name
+		small letter
+		basicProgramsLearn
+		com.amazon.search
+
+	class
+		should with capital letter
+
+		IntroductionToJava
+
+
+
+
+Assignment
+	1. Create 5 projects 
+		a. each project should have 5 packages
+		b. each package should have 5 classes
+
+
+CoreJava
+Basics of html
+selenium concepts
+frameworks (4)
+git and GitHub
+Jenkins
+
+API and database
+
+
+
+
+
+		

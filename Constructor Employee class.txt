@@ -1,0 +1,46 @@
+
+
+
+Agenda
+	1. Constructor
+	2. Employee class
+
+
+
+Class Abc
+{
+
+Abc()
+{
+
+syso("this is constructor")
+}
+
+void hello()
+{
+syso("this is hello method")
+}
+
+static void hi()
+{
+syso("this is hi method")
+}
+
+p s v m(S a[])
+{
+
+hi();
+
+Abc o=new Abc();
+Abc o1=new Abc();
+
+
+o.hello();
+}
+
+
+}
+
+
+
+

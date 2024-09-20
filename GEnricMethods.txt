@@ -1,0 +1,62 @@
+
+
+
+
+
+Agenda
+	1. Generic methods
+	2. @Test and it's parameters
+	3. bulk execution
+	4. Assertions
+		soft assert
+		hard assert
+
+
+	5. POM
+	 
+	
+
+
+open browser
+load url
+enter uname
+enter password
+click on login
+
+validate login
+
+
+
+<suite>
+
+	<test>
+		<class>
+		
+		</class>
+	
+	</test>
+
+
+</suite>
+
+
+
+Page Object model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

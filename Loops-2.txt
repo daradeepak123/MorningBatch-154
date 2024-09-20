@@ -1,0 +1,171 @@
+
+
+
+Agenda
+	1. Prime number
+	2. while loop
+	3. do while loop
+	4. Nested loop
+
+
+
+for(int i=1;i<10;i--)
+{
+
+syso(i);
+
+}
+
+
+
+prime number
+
+
+7   1 and 7 
+
+8   1 2 4 8
+
+97
+
+
+97%2==0 
+
+97%3==0
+
+97%4==0
+
+97%96==0 
+ 
+ 
+
+if(97%2==0)
+{
+syso(this is not a prime number)
+}
+
+
+int num=97;
+
+Boolean flag=false
+for(int i=0;i<97;i++)
+{
+
+if(num%i==0)
+{
+flag=true;
+}
+
+
+if(flag)
+{
+syso(this is not a prime number)
+}
+else
+{
+syso(this is a prime number)
+
+}
+
+
+}
+
+initilization
+
+while(condition)
+{
+statements;
+inc/dec
+}
+
+
+int i=0;
+while(i<=10)
+{
+syso(i)
+i++;
+}
+
+
+do while
+
+
+do
+{
+
+}while(condition);
+
+
+
+nested loops
+
+
+loop inside a loop
+
+int a=0;
+for(int i=10;i<=100;i++)
+{
+a++;
+
+}
+
+syso(a);
+
+int a=0;
+int b=0;
+
+for(int i=0;i<10;i++)
+{
+	for(int j=0;j<10;j++)
+	{
+
+
+	}	
+
+}
+
+
+
+
+97 
+
+
+1 -  100
+
+for(int i=1;i<=100;i++)
+{
+
+for(int j=2;j<i;j++)
+{
+Boolean flag=true;
+if(i%j==0)
+{
+flag=false;
+break;
+}
+}
+
+if(flag)
+{
+syso(i+" is not a prime number")
+}else
+{
+syso(i+" is a prime number")
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

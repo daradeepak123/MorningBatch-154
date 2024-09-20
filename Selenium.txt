@@ -1,0 +1,96 @@
+
+
+
+Agenda
+	1. Selenium introduction
+	2. Selenium setup
+	3. WebDriver method
+		1. get
+		2. close
+		3. quit
+		4. findelement
+		5. findelements
+		6. windowHangle
+		7. windowhandles
+		8. gettitle
+		9. switch
+		10 navigate
+		11. getpagesource
+		12. getcurrenturl
+	4. basics of HTML
+
+
+
+List<String> lst=new ArrayList<>();
+
+
+WebDriver is an interface  (unimplemented methods)
+
+
+	a. ChromeDriver
+	b. FireFoxDriver
+	c. INternetExplorer
+	d. SafariDriver
+	e. EdgeDriver
+
+
+interface WebDriver
+{
+public void get();
+public void close();
+public void quit();
+}
+
+class ChromeDriver implements WebDriver
+{
+public void get()
+{
+o open url
+}
+public void close()
+{
+to close the tab
+}
+public void quit()
+{
+o close all the tabs
+}
+
+}
+
+
+class FirefoxDriver implements WebDriver
+{
+public void get()
+{
+its logic
+}
+public void close()
+{
+
+}
+public void quit()
+{
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

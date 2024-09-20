@@ -1,0 +1,90 @@
+
+
+
+Agenda
+	1. methods    
+	2. variables and datatypes
+
+
+public static returnType methodName()
+{
+statements;
+}
+
+public static void hello()
+{
+100 lines of code
+}
+
+public static void main(String args[])
+{
+
+hello();
+}
+
+
+variables is a container 
+			stores data
+		a. global
+		b. instance
+		c. local
+
+
+water bottle=5lts; 
+
+
+datatypes
+		a. primitive datatypes
+			1. byte      1 byte of memory
+					byte b=170;
+					-127 - 127
+			2. short     2 bytes 
+					short sss=4000; 
+					~-32000 to +32000
+
+
+			3. int       4 bytes of memory   2,147,483,648 to 2,147,483,647.					int i=20;
+					~2cr to + -2  cr
+			4. long	     8 bytes of memory
+					long l=500000000000l;
+					
+			5. float    10/3 float f=500.4543f;
+			6. double        double d=343.234342;
+			7. char    char ch='@';
+			8. Boolean    Boolean b=true;
+		b. non primitive datatypes
+
+
+
+
+
+
+
+
+
+
+
+double d="java";      213.34
+
+water bottle =5lts of petrol;
+
+
+Assignment
+	1. create a 8 datatypes in different classes and do cross transfer
+	1. Create 5 projects
+		create 2 packages in each project
+		create 5 classes in each package	
+				in each class declare all variables and transfer it in another variables
+
+
+
+
+
+
+
+
+
+
+
+
+

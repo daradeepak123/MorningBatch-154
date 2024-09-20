@@ -1,0 +1,54 @@
+
+
+
+
+Agenda
+	1. Access modifiers
+
+
+		3 years old boy with in the house only?
+
+		old person he can be with on home and with in street
+
+		young girl home, her street and blood relatives house
+
+		young boy any where 
+
+
+
+	1. public you can go any where in the project
+		
+
+
+
+	2. default 
+	3. protected
+	4. private
+
+
+
+	2. Inheritance  acquiring parent property to child
+			calss to class we use a keyword extends
+			class to interface we use implement
+
+
+
+class A
+{
+10 v 10 m
+}
+
+class B extends A
+{
+5 m 5 v
+
+}
+
+
+
+
+
+
+
+
+

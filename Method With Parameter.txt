@@ -1,0 +1,142 @@
+
+recap
+	static  it is a global variable
+	without static variable 
+	inside the method is called local variable
+
+
+Agenda
+	1. object cross mapping
+	2. method with parameter
+
+
+class ABC{
+
+int xyz=500;
+
+p s v hello()
+{
+
+ABC obj1=new ABC();
+obj1=3000;
+
+ABC obj=new ABC();
+obj.xyz=1000;
+syso(obj.xyz);
+
+int abc=500;
+}
+
+
+
+}
+
+
+Class DevOps
+{
+
+Selenium se=new Selenium();
+
+se.java();
+
+deployments
+
+piplines
+
+kub
+
+azure
+
+}
+
+class Selenium
+{
+
+DevOps do=new DevOps();
+
+do.kube();
+
+
+
+java
+
+selenium
+
+html
+
+
+
+}
+
+
+
+
+public static void main(String args[])
+{
+
+}
+
+
+
+
+public static void  juicer()
+{
+
+
+}
+
+
+
+mixer   -> 
+
+
+grinder 
+
+
+
+
+public static void mixer(item name)
+{
+
+syso("mix"+name)  =-> 
+
+
+
+}
+
+
+
+
+
+
+public static void add(int q,int w)
+{
+
+int a=q,b=w,c;
+
+c=a+b;
+syso(c);
+
+}
+
+
+p s v m()
+{
+add(20,20);   //stu1 ask   40
+add(-20,200);   //stu2 ask  180
+
+
+}
+
+
+
+
+Assignment
+	1. Design a calculator
+
+
+
+
+
+
+

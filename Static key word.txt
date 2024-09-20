@@ -1,0 +1,93 @@
+
+
+premitive and non premitive datatypes
+
+
+1. class
+2. arrays
+3. objects
+4. String
+
+1. global   delacred at class level and it will have static keyword infront of it
+2. instance
+3. local
+
+
+public class A
+{
+
+static int b=400;
+p s v m()
+{
+int a=100;
+}
+int c=800;
+}
+
+
+
+
+
+Agenda
+	1. static key word
+	2. Object 
+
+className refName=new className();
+
+
+
+
+class ABC
+{
+
+public static void welcomeNote()
+{
+statement1
+statement2
+statement3
+statement4
+statementn
+}
+
+public void welcomeNoteee()
+{
+statement1
+statement2
+statement3
+statement4
+statementn
+}
+static int abc=100;
+int xyz=500;
+p s v m (S Args[])
+{
+
+syso("welcome students")
+welcomeNot();
+syso(abc);
+
+}
+
+
+}
+
+
+Assignment
+	1. Create 8 static variables
+	2. create 8 non-static variables
+	3. call then to main method
+	4. create 3 static methods
+	5. create 3 non static method
+	6. call them to main method
+
+
+
+
+
+
+
+
+
+
+
+

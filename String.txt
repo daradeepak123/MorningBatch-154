@@ -1,0 +1,65 @@
+
+
+
+Agenda
+	1. String
+		string is combination of character sequences    a A 1 (
+		
+
+char ch='@';
+char c='a';
+
+	
+	2. functions
+	3. programs in string
+
+
+
+
+1. String is a class
+	
+
+
+printing string
+
+
+String str="hello";
+
+syso(str)
+
+
+h
+e
+l
+l
+o
+
+for(int i=0;i<str.length();i++)
+{
+syso(str.chatrAt(i));
+}
+
+
+
+
+java
+
+avaj
+
+
+avaj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

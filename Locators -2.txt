@@ -1,0 +1,125 @@
+
+
+findElement
+findElements 
+
+methods
+
+
+
+Agenda
+	1. Locators
+		cssSelectors
+
+			1. id
+				#valueOfID
+
+		driver.findElement(By.cssSelector("#email")).someAction();
+
+			2. tag and id combination
+		driver.findElement(By.cssSelector("input#email")).someAction();
+
+			3. class
+	driver.findElement(By.cssSelector(".inputtext _55r1 _6luy")).someAction();
+			4. tag and class
+		
+	driver.findElement(By.cssSelector("input.inputtext _55r1 _6luy")).someAction();
+	
+			5. tag and attribute combination
+		tag[attribute=value]
+			6. tag and multiple attribute
+		button[name='login'][type='submit']
+
+
+	xpath
+
+	
+		two types of xpaths
+		1. absolute xpath /
+
+
+
+
+		2. relative xpath   //
+			a. tag name
+				//tagname
+		
+			b. tag and attribute combination
+				//tagname[@attribute='value']
+		
+			c. tag and multiple attributes
+				//tag[@attribute1='value' and @attribute2='value']
+
+
+
+//human[@name='srinivas' and @height='tall' and @complexion='fair']
+
+
+
+<input id="abc" name="xyz" class="qwe"></input>
+
+ID
+driver.findElement(By.id("abc"));
+
+name
+driver.findElement(By.name("xyz"));
+
+class
+
+driver.findElement(By.class("qwe"));
+
+tag
+
+driver.findElement(By.tagName("input"));
+
+cssSelector
+<input id="abc" name="xyz" class="qwe"></input>
+
+id
+driver.findElement(By.cssSelector("input#abc"));
+class
+driver.findElement(By.cssSelector("input.qwe"));
+tag and attribute
+driver.findElement(By.cssSelector("input[id='abc']"));
+driver.findElement(By.cssSelector("input[id='abc' and name='zyx' and class='qwe']"));
+
+
+
+
+
+
+
+
+
+		xpath
+
+<input id="abc" name="xyz" class="qwe1"></input>
+<input id="abc1" name="xyz1" class="qwe1"></input>
+<input id="abc2" name="xyz" class="qwe"></input>
+<input id="abc3" name="xyz1" class="qwe"></input>
+
+//input[@name='xyz' and @class='qwe']
+
+
+driver.findElement(By.xpath("//input"));
+
+driver.findElement(By.xpath("//input[@id='abc']"));
+
+driver.findElement(By.xpath("//input[@id='abc' and @name='xyz' and @class='qwe']"));
+
+
+text 
+
+sibling
+
+parent 
+
+child
+
+
+
+
+
+
+
+		

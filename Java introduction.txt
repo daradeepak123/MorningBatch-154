@@ -1,0 +1,76 @@
+
+Agenda
+	1. What is Java
+	2. Reverse engineering of Java
+	3. Features in java
+	4. Download and installations
+	5. What is JDK
+
+
+
+	Java programing language
+
+language  
+	a. vocal
+		English
+		or any language
+	b. writing
+		write and express
+	c. sign
+		
+programing
+
+
+
+
+
+Java is a open source tool
+
+Java is a primitive tool
+
+capabilities of java
+	1. can develop web pages
+	2. can develop desktop apps
+	3. mobile based apps
+	4. construct servers
+	5. design tool
+	6. Operating systems
+
+
+
+
+Features in java 
+
+	a. simple
+	b. Robust
+	c. supports OOPS concepts
+	d. multi threaded
+	e. portable
+	f. parallel execution
+	g. secure
+	h. independent
+
+
+
+10
+
+int a=10;
+
+
+Java and eclipse installation
+
+Google
+	-> Java download
+		-> go to oracle site
+		-> 
+
+
+Eclipse
+Google
+	-> 
+
+
+
+
+
+

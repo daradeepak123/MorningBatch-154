@@ -1,0 +1,93 @@
+
+
+
+Agenda
+	1. loops
+		a. simple for loop
+		b. for each loop
+		c. while
+		d. do while loop
+		e. nested loops
+	2. debugging
+
+
+for(initialize; conditioning; inc/dec)
+{
+statements;
+}
+
+int i=0;
+
+i++;
+
+1
+
+i++;
+
+2
+
+
+i++;
+
+3
+
+100
+
+100 /99
+
+
+
+
+
+
+
+
+for(int i=0;i<=10;i++)   // 0 1 2 3 4 5 6 7 8 9 10 -- 11 12
+{
+statements;
+}
+
+I wanted to print 1-10 numbers
+
+
+syso(1);
+syso(2);
+syso(3);
+syso(4);
+syso(5);
+syso(6);
+syso(7);
+syso(8);
+syso(9);
+syso(10);
+
+
+
+
+I wanted to print 5 table with number till 10
+
+
+5*1=5
+5*2=10
+
+syso("5*"+i+"="+i*5);
+
+
+
+I wanted to know odd numbers and even numbers from 1-100
+
+loop with break
+
+continue
+
+
+
+
+
+
+
+
+
+
+
+

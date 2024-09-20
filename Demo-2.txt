@@ -1,0 +1,58 @@
+
+
+Agenda
+	1. Introduction
+	2. What is testing
+	3. types of testing
+		1. manual 
+			a. Smoke testing  
+			b. Functional testing
+			c. re-testing -> test case -> bug fix
+			d. sanity testing
+			e. regression testing  park
+			f. integration testing 
+			g. system testing
+			h. adhoc testing
+			i. trail and error testings
+
+		2. automation testing
+
+			a. Selenium with java   open source 
+			b. Cypress
+			c. Tosca
+			d. QTP
+			e. Protractor
+			f. javaScript with testcafe
+
+
+
+Organization 
+	
+
+	100 80 knows about selenium with java   rest of topics
+	100000 for selenium
+	120000 for cypress
+
+individual
+	
+	
+			
+			
+			
+	4. Automation testing
+	5. Plan to become automation test engineer
+
+
+		a. core java
+		b. basics of html
+		c. selenium components
+		d. testNG
+		e. maven
+		f. DataDriven keyword driven hybrid POM cucumber (frameworks)
+		g. git and git hub
+		h. jenkins
+
+
+
+
+

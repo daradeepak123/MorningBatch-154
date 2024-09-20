@@ -1,0 +1,94 @@
+
+
+Agenda
+	1. methods  is nothing but block of code
+	2. dataTypes and variables
+
+class Learn{
+
+
+var1=100
+
+
+public static void main(String args[])
+{
+
+system.out.println("Welcome to quality thought");
+
+}
+
+public static void welcom()
+{
+var2=700;
+system.out.println("Welcome to quality thought");
+}
+
+}
+
+
+
+returnType methodName()
+{
+statements;
+}
+
+
+
+p s v m(S args[])
+{
+syso(hi);
+
+welcomeNote();
+welcomeNote();
+welcomeNote();
+welcomeNote();
+
+syso(hello);
+}
+
+
+public static void welcomeNote()
+{
+var1=100
+statement 1;
+statement 2
+statement 3
+statement n
+}
+
+
+variables  vari + ables
+	1. global
+	2. instance
+	3. local
+
+
+
+dataTypes
+
+
+
+water bottle=1lts
+
+
+petrol bottle1=5lts;
+
+
+
+
+books bag=10Books; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

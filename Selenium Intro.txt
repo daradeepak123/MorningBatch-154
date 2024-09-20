@@ -1,0 +1,175 @@
+
+
+
+Agenda
+	1. Recap
+	2. Selenium Intro
+	3. basics of html
+	4. 3tire archi
+
+
+
+OOPS
+
+1. class
+2. method
+3. object   state and behaviour 
+4. inheritance
+5. polymorphism
+	a. overloading
+	b. overriding
+
+6. abstraction
+
+	1. abstract method
+	2. abstract class
+	3. interface
+
+public interface Car
+{
+int a=100;
+public void 4wheels();
+public void seatingCapacity();
+	    windows();
+		size();
+
+
+
+
+
+}
+
+p MS extends Car
+{
+public void 4wheels()
+{
+low q wheels
+}
+public void seatingCapacity();
+	    windows();
+		size();
+
+syso(a)
+
+}
+
+
+
+signature 
+
+p abstract v hello();
+
+
+public abstract class Country
+{
+
+public abstract void currency();
+public abstract void eatingHabits();
+public abstract void language();
+public abstract void crime();
+public abstract void tourisim();
+
+public void hello()
+{
+
+}
+
+}
+
+public class India extends Country
+{
+public  void currency()
+{
+rupee
+}
+public  void eatingHabits()
+{
+veg and non veg preferred veg
+}
+public void language()
+{
+hindi multi language
+}
+public void crime()
+{
+moderate 
+}
+}
+
+
+public class US extends Country
+{
+public  void currency()
+{
+rupee
+}
+public  void eatingHabits()
+{
+veg and non veg preferred veg
+}
+public void language()
+{
+hindi multi language
+}
+public void crime()
+{
+moderate 
+}
+}
+
+
+
+
+7. encapsulation
+	1. access modifiers
+	2. setters and getters
+
+
+
+Collections
+
+framework of collections
+
+
+
+
+public interface ABC
+{
+
+
+}
+
+
+public class XYZ implements ABC
+{
+
+ABC aa=new XYX();
+
+
+
+}
+
+
+int a[]=new int[10];
+
+a[0]=123;
+a[9]=30;
+
+List<String> list=new LinkedList();
+
+
+list.add("welcome");
+list.add("to");
+list.add("Quality thought");
+
+list.replace(0,"hello");
+
+
+
+
+
+
+
+
+
+ 

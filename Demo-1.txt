@@ -1,0 +1,120 @@
+
+
+
+Agenda
+	1. Introduction
+	2. What is Testing
+	3. Why do we need Testing
+
+		Wedding card printing shop
+			data
+			name
+			content
+			colour
+			design
+			location
+
+10000 cards
+
+He designed 
+
+hee need to test
+
+10 cards
+
+
+
+			printed 10000 cards 100000
+
+
+XYZ Bank 
+		100.00%
+		scenarios
+			100000   10 years 1 year 0 years
+			0 rupees
+			10
+
+
+
+
+	4. Types of Testing
+		a. smoke testing
+		b. functional testing
+		c. Sanity test
+		d. re-testing  -> execute again 
+				-> re testing
+		e. regression  park
+		f. system    
+		g. integration
+		h. adhoc testing
+		i. trail and error testing
+		
+	5. Automation Testing
+
+		
+		1. Selenium with java   free  more opportunity 
+		2. Tosca
+		3. Cypress    free some portion 
+		4. Katalon    
+		5. Protractor free some level
+		6. playwrite  free some level
+		7. QTP        extreme paid 
+
+100000
+milage 60   55-65
+strength 
+
+customer review excellent 
+
+org
+	
+
+100
+	80 people selenium with java  100000
+	20 knows rest of tech         120000
+
+
+
+employee
+	Openings 
+	
+
+
+
+
+70000
+
+100 m   40
+
+
+customer review NA 
+
+
+
+To become automation test engineer selenium with java
+	1. Core java
+	2. basics of html
+	3. selenium 
+	4. read data from sources
+	5. TestNG
+	6. maven 
+	7. POM
+	8. 4 types of frameworks (Data driven testing hybrid pom Cucumber)
+	9. GIt and GitHub
+	10. Jenkins
+	11. Complimentary (Rest assured and DB Automation) 
+
+WebDriver driver=new CHromeDriver();
+
+
+
+
+
+
+
+
+
+
+
+
+	

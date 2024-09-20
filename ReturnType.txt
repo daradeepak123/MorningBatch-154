@@ -1,0 +1,50 @@
+
+
+Agenda
+	1. return type
+	2. constructor
+
+public static int addNumbers()
+{
+int a=100,b=200,c;
+c=a+b;
+	return c;
+
+}
+
+public void add(int a,int b)
+{
+syso(a+b)
+}
+public static void main(String args[])
+{
+int abc=addNumbers();
+
+syso(abc);
+
+add(abc,500);
+
+}
+
+
+constructor
+
+1. constructor looks like method but it is not a method
+2. you can have default constructor
+3. constructors cannot be static
+4. constructors can have parameters
+5. constructors are invoked but not called
+6. constructors can be created multiple
+
+
+
+
+
+
+
+
+
+
+
+
+

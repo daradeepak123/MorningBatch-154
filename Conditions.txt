@@ -1,0 +1,134 @@
+
+
+
+Agenda
+	1. conditions
+
+		a. simple if
+			if(true/false)
+			{
+				statments;
+			}
+
+			xyz stetements;
+
+
+		b. else if
+			if(true/false)
+			{
+				statements1;			
+			}
+			else
+			{
+				statements2;
+			}
+
+			xyz statements;
+
+		c. ladder if
+			father says 
+			get marks more than 500 you will get a bicycle
+			get moarks more than 400 you will get outing
+			get more than 300 you will get new dress
+			get failed you will become a gumasta 
+			int marks=400;
+			if(marks>=500 & marks <600)    ///true & false =false
+			{
+				you will get a bicycle;
+			}
+			else if(marks >=400 & marks <500)   true and false
+			{
+				you will get outing
+			}
+			else if(marks >=300 & marks <400)   true and false
+			{
+				you will get new dress
+			}
+
+			else
+			{
+				you will be a gumasta
+			}
+
+		d. nested if
+			
+			if(get pass)
+			{
+				if(marks>=500 & marks <600)    ///true & false =false
+				{
+				you will get a bicycle;
+				}
+				else if(marks >=400 & marks <500)   true and false
+				{
+				you will get outing
+				}
+				else if(marks >=300 & marks <400)   true and false
+				{
+				you will get new dress
+				}
+			}
+			else
+			{
+				you will be a gumasta
+			}	
+			
+				
+		e. switch
+		f. looping statements
+
+
+there is a 10 student 
+		his father said get more than 500 than you will get bicycle
+
+		father said
+		if you get pass you will be promoted to next class
+		else you will become a gumasta
+
+500  true / false
+
+Boolean b=500>500;   false
+
+if(true/false)
+{
+statements;
+}
+
+
+
+
+int marks=500;
+
+if(marks>500)   false
+{
+you will get bicycle
+}
+
+Boolean stores true/false
+
+comparator operators    int a=100,b=200; Boolean c=a<b;
+logical operators
+method who have return type of boolean
+
+if(c)
+{
+statements
+}
+
+
+
+requirement 
+	
+
+
+401
+int telugu=90;
+int hindi=90;
+int english=90;
+int maths=100;
+int social=100;
+int science = A;
+
+
+
+
+

@@ -1,0 +1,66 @@
+
+
+
+Agenda
+	1. What is Java
+	2. Features of java
+	3. installations
+		a. Java
+		b. eclipse
+	4. First program in Java
+	5. methods
+
+	java programing language
+
+
+mediation channel between systems
+
+English communication language
+
+is a programing language
+
+
+1. webBased application
+2. windowbased applications
+3. mobile application
+4. servers
+5. tools
+6. operating systems
+
+
+features of java
+
+1. fast
+2. secure  
+3. OOPS supported
+4. robust
+5. independent
+6. multi threaded
+7. parallel executions
+8. portable
+9. simple
+
+int a =10;
+
+
+
+10
+
+Installations 
+
+Java installation
+eclipse installation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
